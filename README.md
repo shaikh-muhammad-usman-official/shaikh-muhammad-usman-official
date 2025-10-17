@@ -3,8 +3,8 @@
   <img src="https://github.com/shaikhusman/shaikhusman/blob/main/banner.png" alt="Shaikh Usman Banner" width="100%">
 </p>
 
-<h1 align="center">👋 Hey, I'm <span style="color:#00FFFF;">Shaikh Usman</span></h1>
-<h3 align="center">💻 MERN Stack Developer • 🤖 AI Engineer • 🚀 Innovator</h3>
+<h1 align="center">👋 Hey, I'm <span style="color:#00FFFF;">Shaikh Muhammad Usman</span></h1>
+<h3 align="center">💻 MERN Stack Developer • 🤖 Agentic AI Enthusiast • 🚀 Innovator</h3>
 
 ---
 
