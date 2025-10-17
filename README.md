@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://github.com/shaikhusman/shaikhusman/blob/main/Banner.png" alt="Shaikh Usman Banner" width="100%">
+  <img src="/Banner.png" alt="Shaikh Usman Banner" width="100%">
 </p>
 
 <h1 align="center">👋 Hey, I'm <span style="color:#00FFFF;">Shaikh Muhammad Usman</span></h1>
